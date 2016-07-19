@@ -1,0 +1,3 @@
+1. com.key.mail.comm包中是email发送的工具类，
+2. com.key.mail.apache包中是使用Apache的commons.email-1.4.jar，实现Email发送功能
+3. com.key.mail.java包中是使用java的mail.jar，实现Email发送功能
